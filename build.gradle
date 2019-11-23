@@ -1,0 +1,5 @@
+ext {
+    gradleDir = "${rootProject.projectDir}/gradle/"
+}
+
+apply from: "${gradleDir}/pack.gradle"
