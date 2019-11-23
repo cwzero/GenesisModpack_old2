@@ -1,0 +1,26 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+.project
+.settings/
+
+*.jar
+!gradle-wrapper.jar
+
+.classpath
+.project
+.settings/
+
+server/
+src/resourcepacks/
+
+src/mods/
+src/saves/
+src/config/forge.cfg
+src/config/forgeChunkLoading.cfg
+src/config/splash.properties
+
+/manifest.json
