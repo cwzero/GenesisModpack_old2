@@ -2,7 +2,7 @@
 	"priority": 1000000000000,
 	"populate": {
 		"dirt": {
-
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "dirt",
@@ -24,6 +24,7 @@
 		},
 
 		"gravel": {
+			"enabled": true,
 			"distribution": "uniform",
 			"generator": {
 				"block": "gravel",
@@ -45,6 +46,7 @@
 		},
 
 		"diorite": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -71,6 +73,7 @@
 		},
 
 		"granite": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -97,6 +100,7 @@
 		},
 
 		"andesite": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -303,21 +307,7 @@
 			"min-height": 4,
 			"max-height": 28,
 			"retrogen": false,
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"extreme_hills",
-							"smaller_extreme_hills",
-							"extreme_hills_with_trees",
-							"mutated_extreme_hills",
-							"mutated_extreme_hills_with_trees"
-						]
-					}
-				]
-			},
+			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
