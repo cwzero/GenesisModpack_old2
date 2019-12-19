@@ -1,0 +1,100 @@
+{
+  "entries": [
+    {
+      "item": "vanillafoodpantry:oak_acorn|0",
+      "emc": 32
+    },
+    {
+      "item": "xlfoodmod:tomato_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "xlfoodmod:rice_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "xlfoodmod:pepper_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "xlfoodmod:cucumber_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "xlfoodmod:lettuce_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "xlfoodmod:strawberry_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "xlfoodmod:onion|0",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_misc|17",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:block_black_lotus|0",
+      "emc": 32
+    },
+    {
+      "item": "xlfoodmod:corn_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:torch|0",
+      "emc": 5
+    },
+    {
+      "item": "actuallyadditions:item_flax_seed|0",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_coffee_seed|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:limestone2|7",
+      "emc": 1
+    },
+    {
+      "item": "chisel:marble2|7",
+      "emc": 1
+    },
+    {
+      "item": "rustic:slate|0",
+      "emc": 1
+    },
+    {
+      "item": "projectred-core:resource_item|105",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 8192
+    },
+    {
+      "item": "projecte:item.pe_matter|0",
+      "emc": 139264
+    },
+    {
+      "item": "projecte:item.pe_covalence_dust|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:lava_bucket|0",
+      "emc": 832
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 512
+    }
+  ]
+}

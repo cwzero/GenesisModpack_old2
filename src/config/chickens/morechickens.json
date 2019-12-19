@@ -1526,5 +1526,101 @@
     "spawn_type": "NONE",
     "parent_1": "morechickens:manasteelchicken",
     "parent_2": "morechickens:terrasteelchicken"
+  },
+  "morechickens:zincchicken": {
+    "name": "zincchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "railcraft:ingot",
+      "metaID": 8
+    },
+    "drop_item": {
+      "itemID": "railcraft:ingot",
+      "metaID": 8
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:whitechicken",
+    "parent_2": "chickens:claychicken"
+  },
+  "morechickens:brasschicken": {
+    "name": "brasschicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "railcraft:ingot",
+      "metaID": 9
+    },
+    "drop_item": {
+      "itemID": "railcraft:ingot",
+      "metaID": 9
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:copperchicken",
+    "parent_2": "morechickens:zincchicken"
+  },
+  "morechickens:cupronickelchicken": {
+    "name": "cupronickelchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "factorytech:ingot",
+      "metaID": 2
+    },
+    "drop_item": {
+      "itemID": "factorytech:ingot",
+      "metaID": 2
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:copperchicken",
+    "parent_2": "morechickens:nickelchicken"
+  },
+  "morechickens:amethystchicken": {
+    "name": "amethystchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "calculator:smallamethyst",
+      "metaID": 0
+    },
+    "drop_item": {
+      "itemID": "calculator:smallamethyst",
+      "metaID": 0
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:ghastchicken",
+    "parent_2": "chickens:purplechicken"
+  },
+  "morechickens:tanzanitechicken": {
+    "name": "tanzanitechicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "calculator:smalltanzanite",
+      "metaID": 0
+    },
+    "drop_item": {
+      "itemID": "calculator:smalltanzanite",
+      "metaID": 0
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:quartzchicken",
+    "parent_2": "chickens:purplechicken"
+  },
+  "morechickens:osmiumchicken": {
+    "name": "osmiumChicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "mekanism:ingot",
+      "metaID": 1
+    },
+    "drop_item": {
+      "itemID": "mekanism:ingot",
+      "metaID": 1
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:ironchicken",
+    "parent_2": "chickens:quartzchicken"
   }
 }

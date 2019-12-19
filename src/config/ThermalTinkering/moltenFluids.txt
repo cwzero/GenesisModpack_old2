@@ -29,6 +29,7 @@ lead                                              (tconstruct:molten_lead)      
 silver                                            (tconstruct:molten_silver)                                                       = Molten Silver
 electrum                                          (tconstruct:molten_electrum)                                                     = Molten Electrum
 steel                                             (tconstruct:molten_steel)                                                        = Molten Steel
+constantan                                        (immersiveengineering:molten_constantan)                                         = Molten Constantan
 xu_evil_metal                                     ([no block])                                                                     = Evil Infused Iron
 xu_enchanted_metal                                ([no block])                                                                     = Enchanted Metal
 xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
@@ -44,6 +45,11 @@ alumite                                           (plustic:plustic.molten_alumit
 nickel                                            (tconstruct:molten_nickel)                                                       = Molten Nickel
 invar                                             (tconstruct:molten_invar)                                                        = Molten Invar
 iridium                                           (tconstruct:molten_iridium)                                                      = Molten Iridium
+osmium                                            (plustic:plustic.molten_osmium)                                                  = Molten Osmium
+refinedobsidian                                   (plustic:plustic.molten_refinedobsidian)                                         = Molten Refined Obsidian
+refinedglowstone                                  (plustic:plustic.molten_refinedglowstone)                                        = Refined Glowstone
+osgloglas                                         (plustic:plustic.molten_osgloglas)                                               = Molten Osgloglas
+osmiridium                                        (plustic:plustic.molten_osmiridium)                                              = Molten Osmiridium
 lumium                                            (tconstruct:molten_lumium)                                                       = Molten Lumium
 signalum                                          (tconstruct:molten_signalum)                                                     = Molten Signalum
 platinum                                          (tconstruct:molten_platinum)                                                     = Molten Platinum
